@@ -110,3 +110,10 @@ Possible improvements for future versions:
 • Student progress tracking  
 • Database integration  
 • Personalized learning recommendations
+## Why This Project Stands Out
+
+- Uses LLM (GPT) for real-time reasoning
+- Implements structured outputs with Pydantic
+- Applies the Socratic teaching method
+- Maintains conversation context
+- Demonstrates AI + software engineering skills
